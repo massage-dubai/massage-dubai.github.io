@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.massage-dubai.com/sitemap.xml
+Sitemap: https://massage-dubai.github.io/sitemap.xml
