@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600">
+<defs>
+<g id="arm">
+<rect x="-150" y="-19" width="120" height="38" rx="19" fill="#14233A"/>
+<path d="M-40,-16 C-10,-24 24,-20 38,-8 C46,0 40,12 22,16 C4,20 -24,18 -40,16 Z" fill="#D98E73"/>
+<path d="M-14,-16 C-6,-30 10,-34 16,-28 C10,-22 4,-18 -2,-14 Z" fill="#D98E73"/>
+<path d="M4,-6 C16,-8 26,-6 32,-2 M4,6 C16,8 24,8 30,6" fill="none" stroke="#A87B2E" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+</g>
+</defs>
+<rect width="480" height="600" fill="#0E6F6A"/>
+<g fill="#BFDCD6" opacity="0.25">
+<circle cx="60" cy="150" r="6"/><circle cx="420" cy="150" r="6"/><circle cx="60" cy="190" r="4"/><circle cx="420" cy="190" r="4"/>
+</g>
+<rect x="138" y="96" width="204" height="540" rx="40" fill="#0A4F4B"/>
+<rect x="148" y="104" width="184" height="530" rx="34" fill="#FBF8F3"/>
+<ellipse cx="240" cy="168" rx="38" ry="34" fill="#14233A"/>
+<path d="M174,250 C170,220 196,206 240,206 C284,206 310,220 306,250 C302,330 288,380 292,470 H188 C192,380 178,330 174,250 Z" fill="#D9A57B"/>
+<path d="M216,200 H264 V214 H216 Z" fill="#D9A57B"/>
+<path d="M240,232 V470" stroke="#A87B2E" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="2 10" opacity="0.6"/>
+<g fill="none" stroke="#FBF8F3" stroke-width="2.5" stroke-linecap="round" opacity="0.8">
+<path d="M222,300 C206,330 206,370 222,410"/><path d="M258,300 C274,330 274,370 258,410"/>
+<path d="M210,250 C196,262 192,280 196,296"/><path d="M270,250 C284,262 288,280 284,296"/>
+</g>
+<path d="M170,452 C200,440 280,440 310,452 L316,620 H164 Z" fill="#BFDCD6"/>
+<path d="M176,476 C210,466 270,466 304,476 M180,512 C214,504 266,504 300,512" fill="none" stroke="#0E6F6A" stroke-width="2.5" opacity="0.5"/>
+<use href="#arm" transform="translate(196 262) rotate(12)"/>
+<use href="#arm" transform="translate(284 262) scale(-1 1) rotate(12)"/>
+<use href="#arm" transform="translate(210 388) rotate(-12)"/>
+<use href="#arm" transform="translate(270 388) scale(-1 1) rotate(-12)"/>
+<g transform="translate(78 540)">
+<rect x="-22" y="-30" width="44" height="50" rx="8" fill="#FBF8F3"/>
+<path d="M0,-34 C-8,-46 -2,-56 0,-64 C2,-56 8,-46 0,-34 Z" fill="#E3C27A"/>
+<ellipse cx="0" cy="20" rx="34" ry="8" fill="#0A4F4B"/>
+</g>
+<g transform="translate(404 548)">
+<path d="M-38,-12 H38 C36,14 20,24 0,24 C-20,24 -36,14 -38,-12 Z" fill="#A87B2E"/>
+<ellipse cx="0" cy="-12" rx="38" ry="9" fill="#E3C27A"/>
+<ellipse cx="0" cy="-12" rx="28" ry="5" fill="#D98E73" opacity="0.7"/>
+</g>
+</svg>

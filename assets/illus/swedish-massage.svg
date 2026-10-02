@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600">
+  <rect width="480" height="600" fill="#EBCFB2"/>
+  <!-- pendant lamp -->
+  <path d="M380 0v170" stroke="#A87B2E" stroke-width="2"/>
+  <path d="M352 196q28-40 56 0z" fill="#A87B2E"/>
+  <ellipse cx="380" cy="200" rx="10" ry="6" fill="#FBF8F3"/>
+  <path d="M380 210l-34 70h68z" fill="#E3C27A" opacity="0.25"/>
+  <!-- floor -->
+  <rect y="480" width="480" height="120" fill="#D9A57B"/>
+  <!-- therapist -->
+  <path d="M190 256q48-34 100-8l14 172H178z" fill="#0E6F6A"/>
+  <circle cx="240" cy="200" r="30" fill="#A87B2E"/>
+  <path d="M212 196q2-36 34-34q26 2 24 26q-30-12 -58 8z" fill="#14233A"/>
+  <circle cx="262" cy="170" r="12" fill="#14233A"/>
+  <!-- table -->
+  <rect x="50" y="430" width="14" height="110" fill="#0A4F4B"/>
+  <rect x="322" y="430" width="14" height="110" fill="#0A4F4B"/>
+  <rect x="30" y="412" width="330" height="22" rx="10" fill="#0A4F4B"/>
+  <!-- client prone -->
+  <circle cx="70" cy="390" r="22" fill="#D9A57B"/>
+  <path d="M50 384q6-22 30-20q-20 6 -24 22z" fill="#14233A"/>
+  <path d="M92 412q0-30 34-36q60-8 120 -2l12 40z" fill="#D9A57B"/>
+  <path d="M236 412q0-40 50-42h66q12 0 12 14v28z" fill="#FBF8F3"/>
+  <path d="M256 388h100M266 400h90" stroke="#E8C3B0" stroke-width="2"/>
+  <!-- gliding stroke lines -->
+  <g fill="none" stroke="#FBF8F3" stroke-width="2.5" stroke-linecap="round" opacity="0.9">
+    <path d="M232 392q-60-10 -118 6"/>
+    <path d="M232 402q-56-6 -108 8"/>
+    <path d="M122 390l-10 8l12 4"/>
+  </g>
+  <!-- arms and hands -->
+  <path d="M204 270L150 360" stroke="#A87B2E" stroke-width="20" stroke-linecap="round"/>
+  <path d="M276 270L214 360" stroke="#A87B2E" stroke-width="20" stroke-linecap="round"/>
+  <path d="M204 270l-6 10M276 270l-6 10" stroke="#0E6F6A" stroke-width="28" stroke-linecap="round"/>
+  <ellipse cx="146" cy="370" rx="26" ry="10" fill="#A87B2E" transform="rotate(-8 146 370)"/>
+  <ellipse cx="208" cy="368" rx="26" ry="10" fill="#A87B2E" transform="rotate(-4 208 368)"/>
+  <!-- side table -->
+  <rect x="372" y="440" width="84" height="12" rx="4" fill="#A87B2E"/>
+  <rect x="384" y="452" width="10" height="90" fill="#A87B2E" opacity="0.8"/>
+  <rect x="434" y="452" width="10" height="90" fill="#A87B2E" opacity="0.8"/>
+  <rect x="380" y="392" width="24" height="48" rx="7" fill="#E3C27A"/>
+  <rect x="386" y="378" width="12" height="15" rx="3" fill="#0E6F6A"/>
+  <path d="M414 404h26l-3 36h-20z" fill="#FBF8F3" opacity="0.75"/>
+  <path d="M416 416h22" stroke="#BFDCD6" stroke-width="10" opacity="0.6"/>
+  <!-- folded towel on floor shelf -->
+  <rect x="84" y="508" width="96" height="16" rx="6" fill="#FBF8F3"/>
+  <rect x="90" y="492" width="84" height="16" rx="6" fill="#EEF2F1"/>
+  <rect x="64" y="524" width="272" height="8" fill="#0A4F4B" opacity="0.8"/>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600">
+  <rect width="480" height="600" fill="#14233A"/>
+  <!-- wall arch with crescent -->
+  <path d="M60 330V200a60 60 0 0 1 120 0v130z" fill="#0A4F4B" opacity="0.8"/>
+  <path d="M128 176a20 20 0 1 0 18 28a16 16 0 1 1 -18 -28z" fill="#E3C27A"/>
+  <!-- floor -->
+  <rect y="500" width="480" height="100" fill="#0A4F4B"/>
+  <!-- therapist -->
+  <path d="M258 250q40-34 96-20q44 40 52 170H286z" fill="#0E6F6A"/>
+  <circle cx="318" cy="186" r="30" fill="#D98E73"/>
+  <path d="M290 178q4-34 40-34q24 4 20 26q-30-10 -60 8z" fill="#0A4F4B"/>
+  <!-- upper arm -->
+  <path d="M276 258L188 376" stroke="#D98E73" stroke-width="30" stroke-linecap="round"/>
+  <path d="M276 258l-16 22" stroke="#0E6F6A" stroke-width="36" stroke-linecap="round"/>
+  <!-- client on table -->
+  <rect x="44" y="430" width="400" height="20" rx="8" fill="#A87B2E"/>
+  <rect x="70" y="450" width="14" height="90" fill="#A87B2E" opacity="0.8"/>
+  <rect x="404" y="450" width="14" height="90" fill="#A87B2E" opacity="0.8"/>
+  <circle cx="86" cy="408" r="24" fill="#D9A57B"/>
+  <path d="M64 400q8-22 30-20q-20 8 -24 26z" fill="#0A4F4B"/>
+  <path d="M112 430q2-38 40-48q60-14 140-2l20 50z" fill="#EBCFB2"/>
+  <path d="M280 430q0-46 60-50h98q12 0 12 14v36z" fill="#FBF8F3"/>
+  <path d="M300 404h140M310 418h130" stroke="#BFDCD6" stroke-width="2"/>
+  <!-- muscle lines -->
+  <g fill="none" stroke="#D98E73" stroke-width="2.5" stroke-linecap="round" opacity="0.8">
+    <path d="M134 418q40-20 92-22"/>
+    <path d="M150 428q50-16 110-14"/>
+    <path d="M230 396q24 4 46 2"/>
+  </g>
+  <!-- forearm pressing -->
+  <path d="M188 370h82" stroke="#D98E73" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="276" cy="368" r="16" fill="#D98E73"/>
+  <!-- pressure arcs -->
+  <g fill="none" stroke="#E3C27A" stroke-width="2.5" stroke-linecap="round">
+    <path d="M246 320v22M270 314v26"/>
+    <path d="M150 400q50-24 120 -8" opacity="0.7"/>
+  </g>
+  <!-- stool with towel & cream -->
+  <rect x="352" y="520" width="80" height="12" rx="4" fill="#A87B2E"/>
+  <rect x="362" y="532" width="10" height="50" fill="#A87B2E" opacity="0.8"/>
+  <rect x="412" y="532" width="10" height="50" fill="#A87B2E" opacity="0.8"/>
+  <rect x="356" y="502" width="56" height="18" rx="6" fill="#FBF8F3"/>
+  <rect x="414" y="490" width="16" height="30" rx="5" fill="#E8C3B0"/>
+  <rect x="417" y="482" width="10" height="9" rx="2" fill="#E3C27A"/>
+</svg>

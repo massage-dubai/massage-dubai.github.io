@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600">
+  <rect width="480" height="600" fill="#E8C3B0"/>
+  <!-- small arched window -->
+  <path d="M300 330V214a60 60 0 0 1 120 0v116z" fill="#EBCFB2"/>
+  <path d="M312 322V216a48 48 0 0 1 96 0v106z" fill="#FBF8F3" opacity="0.7"/>
+  <path d="M360 168v154M312 262h96" stroke="#EBCFB2" stroke-width="3"/>
+  <!-- hanging lantern -->
+  <path d="M150 0v150" stroke="#A87B2E" stroke-width="2"/>
+  <path d="M130 156h40l-6 50h-28z" fill="#D98E73"/>
+  <path d="M126 150h48l-8 8h-32zM136 206h28l-4 10h-20z" fill="#A87B2E"/>
+  <ellipse cx="150" cy="182" rx="8" ry="12" fill="#E3C27A" opacity="0.8"/>
+  <!-- floor -->
+  <rect y="430" width="480" height="170" fill="#EBCFB2"/>
+  <path d="M0 430h480" stroke="#D9A57B" stroke-width="2"/>
+  <!-- floor mat -->
+  <path d="M30 520l40-56h360l30 56z" fill="#D98E73"/>
+  <path d="M30 520h430v16H30z" fill="#A87B2E" opacity="0.8"/>
+  <g stroke="#E3C27A" stroke-width="2" opacity="0.7">
+    <path d="M58 482h378M44 502h404"/>
+  </g>
+  <!-- folded striped thai cushions -->
+  <rect x="62" y="452" width="168" height="34" rx="12" fill="#0E6F6A"/>
+  <rect x="70" y="420" width="152" height="34" rx="12" fill="#D98E73"/>
+  <rect x="78" y="388" width="136" height="34" rx="12" fill="#0A4F4B"/>
+  <g stroke="#E3C27A" stroke-width="3" stroke-linecap="round">
+    <path d="M78 469h136M86 437h120M94 405h104"/>
+  </g>
+  <!-- herbal compress balls -->
+  <g>
+    <path d="M118 352q-4-20 -14-34M124 352q4-22 16-34" fill="none" stroke="#0E6F6A" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="122" cy="364" r="26" fill="#FBF8F3"/>
+    <path d="M110 342h24" stroke="#A87B2E" stroke-width="5" stroke-linecap="round"/>
+    <path d="M172 356q-2-18 -10-30M178 356q4-18 14-28" fill="none" stroke="#0E6F6A" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="176" cy="368" r="22" fill="#EBCFB2"/>
+    <path d="M166 348h20" stroke="#A87B2E" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <!-- lemongrass bundle -->
+  <g fill="none" stroke="#0E6F6A" stroke-width="3" stroke-linecap="round">
+    <path d="M258 488q-4-80 -26-150"/>
+    <path d="M264 488q0-90 12-170"/>
+    <path d="M270 488q8-70 40-128"/>
+    <path d="M261 488q-14-60 -50-104"/>
+  </g>
+  <path d="M252 450h22" stroke="#A87B2E" stroke-width="7" stroke-linecap="round"/>
+  <path d="M254 488h20" stroke="#BFDCD6" stroke-width="6" stroke-linecap="round"/>
+  <!-- teapot -->
+  <path d="M330 434q-38-6-44-34" fill="none" stroke="#A87B2E" stroke-width="9" stroke-linecap="round"/>
+  <path d="M408 420q34-4 28-34q-6-22-30-12" fill="none" stroke="#A87B2E" stroke-width="7" stroke-linecap="round"/>
+  <ellipse cx="370" cy="446" rx="48" ry="40" fill="#E3C27A"/>
+  <path d="M322 452q48 16 96 0" fill="none" stroke="#A87B2E" stroke-width="3" opacity="0.6"/>
+  <path d="M340 410q30-18 60 0z" fill="#A87B2E"/>
+  <circle cx="370" cy="398" r="7" fill="#A87B2E"/>
+  <path d="M358 380q-6-12 2-24M378 378q-6-14 2-28" fill="none" stroke="#FBF8F3" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- cup -->
+  <path d="M424 474h30l-4 20q-11 6-22 0z" fill="#FBF8F3"/>
+  <ellipse cx="439" cy="474" rx="15" ry="4" fill="#A87B2E" opacity="0.5"/>
+  <!-- folded towel -->
+  <rect x="246" y="494" width="90" height="16" rx="6" fill="#FBF8F3"/>
+  <rect x="252" y="506" width="78" height="10" rx="4" fill="#BFDCD6"/>
+</svg>

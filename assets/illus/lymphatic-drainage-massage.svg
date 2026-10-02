@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600">
+  <rect width="480" height="600" fill="#EEF2F1"/>
+  <!-- arched window -->
+  <path d="M70 280V200a52 52 0 0 1 104 0v80z" fill="#BFDCD6"/>
+  <path d="M122 148v132" stroke="#EEF2F1" stroke-width="3"/>
+  <!-- floor -->
+  <rect y="480" width="480" height="120" fill="#BFDCD6" opacity="0.6"/>
+  <!-- therapist -->
+  <path d="M370 236q42-30 86-10q16 80 8 254h-92z" fill="#0E6F6A"/>
+  <circle cx="414" cy="182" r="28" fill="#A87B2E"/>
+  <path d="M388 178q2-32 34-32q22 4 20 24q-28-10 -54 8z" fill="#14233A"/>
+  <!-- table -->
+  <rect x="60" y="450" width="14" height="96" fill="#0A4F4B"/>
+  <rect x="356" y="450" width="14" height="96" fill="#0A4F4B"/>
+  <rect x="30" y="430" width="380" height="22" rx="10" fill="#0A4F4B"/>
+  <!-- leg with bent knee -->
+  <path d="M70 404L218 326" stroke="#D9A57B" stroke-width="54" stroke-linecap="round"/>
+  <path d="M218 326L372 408" stroke="#D9A57B" stroke-width="40" stroke-linecap="round"/>
+  <path d="M362 418q14-48 34-42q10 4 6 22l-10 30z" fill="#D9A57B"/>
+  <!-- towel over hips -->
+  <path d="M30 372q50-26 90-12q14 34 4 70H30z" fill="#E8C3B0"/>
+  <path d="M120 360q14 34 4 70" fill="none" stroke="#D98E73" stroke-width="2.5"/>
+  <!-- flow channels toward knee & groin -->
+  <g fill="none" stroke="#0E6F6A" stroke-width="2.5" stroke-linecap="round">
+    <path d="M318 300Q262 262 218 272Q160 282 104 330"/>
+    <path d="M306 274Q258 240 214 250Q150 262 92 312" opacity="0.7"/>
+    <path d="M294 248Q254 220 210 228Q140 242 80 294" opacity="0.45"/>
+  </g>
+  <circle cx="104" cy="330" r="7" fill="#0E6F6A"/>
+  <circle cx="218" cy="298" r="5" fill="#0E6F6A"/>
+  <!-- therapist arms & open palms -->
+  <path d="M388 254L340 352" stroke="#A87B2E" stroke-width="20" stroke-linecap="round"/>
+  <path d="M410 246L286 326" stroke="#A87B2E" stroke-width="20" stroke-linecap="round"/>
+  <path d="M388 254l-4 8M410 246l-8 6" stroke="#0E6F6A" stroke-width="28" stroke-linecap="round"/>
+  <ellipse cx="331" cy="364" rx="30" ry="12" fill="#A87B2E" transform="rotate(25 331 364)"/>
+  <ellipse cx="275" cy="338" rx="30" ry="12" fill="#A87B2E" transform="rotate(25 275 338)"/>
+</svg>
